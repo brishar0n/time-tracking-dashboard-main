@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/brishar0n/time-tracking-dashboard-main)
-- Live Site URL: [Github Live Site](https://your-live-site-url.com)
+- Live Site URL: [Github Live Site](https://brishar0n.github.io/time-tracking-dashboard-main/)
 
 ## My process
 
